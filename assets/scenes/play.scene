@@ -606,7 +606,9 @@
     "_enabled": true,
     "__prefab": null,
     "_alignFlags": 18,
-    "_target": null,
+    "_target": {
+      "__id__": 7
+    },
     "_left": 1073.4155237968766,
     "_right": 1532.2875935000015,
     "_top": 822.69,
@@ -621,7 +623,7 @@
     "_isAbsVerticalCenter": true,
     "_originalWidth": 84.51171875,
     "_originalHeight": 50.4,
-    "_alignMode": 2,
+    "_alignMode": 1,
     "_lockFlags": 18,
     "_id": "4er3xN7YlPrqkxrrcTxmqr"
   },
@@ -26117,7 +26119,9 @@
     "_enabled": true,
     "__prefab": null,
     "_alignFlags": 36,
-    "_target": null,
+    "_target": {
+      "__id__": 5
+    },
     "_left": 1547.2849999999999,
     "_right": 300,
     "_top": 0,
@@ -26132,7 +26136,7 @@
     "_isAbsVerticalCenter": true,
     "_originalWidth": 200,
     "_originalHeight": 0,
-    "_alignMode": 2,
+    "_alignMode": 1,
     "_lockFlags": 36,
     "_id": "99eCdssDBM47ItmRRwhRUy"
   },
@@ -26405,7 +26409,9 @@
     "_enabled": true,
     "__prefab": null,
     "_alignFlags": 36,
-    "_target": null,
+    "_target": {
+      "__id__": 5
+    },
     "_left": 0,
     "_right": 70,
     "_top": 0,
@@ -26420,7 +26426,7 @@
     "_isAbsVerticalCenter": true,
     "_originalWidth": 0,
     "_originalHeight": 0,
-    "_alignMode": 2,
+    "_alignMode": 1,
     "_lockFlags": 36,
     "_id": "b2kVOwZkFNhLCJbyJ3uB66"
   },
@@ -27316,7 +27322,9 @@
     "_enabled": true,
     "__prefab": null,
     "_alignFlags": 12,
-    "_target": null,
+    "_target": {
+      "__id__": 5
+    },
     "_left": 150.933,
     "_right": 0,
     "_top": 0,
@@ -27331,7 +27339,7 @@
     "_isAbsVerticalCenter": true,
     "_originalWidth": 0,
     "_originalHeight": 0,
-    "_alignMode": 2,
+    "_alignMode": 1,
     "_lockFlags": 12,
     "_id": "64YNQWEwhLIIBLbPEsYabk"
   },
@@ -28095,7 +28103,9 @@
     "_enabled": true,
     "__prefab": null,
     "_alignFlags": 41,
-    "_target": null,
+    "_target": {
+      "__id__": 5
+    },
     "_left": -2.842170943040401e-14,
     "_right": 0,
     "_top": 0,
@@ -28110,7 +28120,7 @@
     "_isAbsVerticalCenter": true,
     "_originalWidth": 40,
     "_originalHeight": 0,
-    "_alignMode": 2,
+    "_alignMode": 1,
     "_lockFlags": 0,
     "_id": "c2hayboMpIFad3XffN05hT"
   },
@@ -28239,7 +28249,9 @@
     "_enabled": true,
     "__prefab": null,
     "_alignFlags": 36,
-    "_target": null,
+    "_target": {
+      "__id__": 5
+    },
     "_left": 1547.2849999999999,
     "_right": 70,
     "_top": 0,
@@ -28254,7 +28266,7 @@
     "_isAbsVerticalCenter": true,
     "_originalWidth": 200,
     "_originalHeight": 0,
-    "_alignMode": 2,
+    "_alignMode": 1,
     "_lockFlags": 36,
     "_id": "909Heh/PtG5Im/BQzpKQBM"
   },
@@ -28447,7 +28459,9 @@
     "_enabled": true,
     "__prefab": null,
     "_alignFlags": 36,
-    "_target": null,
+    "_target": {
+      "__id__": 5
+    },
     "_left": 1547.2849999999999,
     "_right": 300,
     "_top": 0,
@@ -28462,7 +28476,7 @@
     "_isAbsVerticalCenter": true,
     "_originalWidth": 200,
     "_originalHeight": 0,
-    "_alignMode": 2,
+    "_alignMode": 1,
     "_lockFlags": 36,
     "_id": "f5MCvK5+tPwZIYMly1+zy6"
   },
@@ -28657,7 +28671,9 @@
     "_enabled": true,
     "__prefab": null,
     "_alignFlags": 33,
-    "_target": null,
+    "_target": {
+      "__id__": 5
+    },
     "_left": 0,
     "_right": 0,
     "_top": 0,
@@ -28672,7 +28688,7 @@
     "_isAbsVerticalCenter": true,
     "_originalWidth": 0,
     "_originalHeight": 0,
-    "_alignMode": 2,
+    "_alignMode": 1,
     "_lockFlags": 33,
     "_id": "b3P/aBWvtPaLQfC/Cw6CNn"
   },
@@ -28791,7 +28807,7 @@
     "_isAbsVerticalCenter": true,
     "_originalWidth": 0,
     "_originalHeight": 0,
-    "_alignMode": 1,
+    "_alignMode": 2,
     "_lockFlags": 0,
     "_id": "86sR5Y8TZKZ4IevzBP/n8w"
   },
@@ -29064,7 +29080,9 @@
     "_enabled": true,
     "__prefab": null,
     "_alignFlags": 36,
-    "_target": null,
+    "_target": {
+      "__id__": 5
+    },
     "_left": 0,
     "_right": 70,
     "_top": 0,
@@ -29079,7 +29097,7 @@
     "_isAbsVerticalCenter": true,
     "_originalWidth": 0,
     "_originalHeight": 0,
-    "_alignMode": 2,
+    "_alignMode": 1,
     "_lockFlags": 36,
     "_id": "b0NYtcoThJ4YC55ikFwBco"
   },
