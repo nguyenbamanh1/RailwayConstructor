@@ -25,10 +25,10 @@ export class cameraFollow extends Component {
 
     lateUpdate(deltaTime: number) {
         if (this.player) {
-            const vec3 = new Vec3(this.player.getWorldPosition().x + this.offset.x, this.player.getWorldPosition().y + this.offset.y, this.node.getWorldPosition().z);
+            let vec3 = new Vec3(this.player.getWorldPosition().x + this.offset.x, this.player.getWorldPosition().y + this.offset.y, this.node.getWorldPosition().z);
             this.node.setWorldPosition(vec3);
             this.UI.forEach(e => {
-                e.setWorldPosition(vec3);
+                e.setWorldPosition(new Vec3(vec3.x, vec3.y));
             });
         } else {
             this.player = char.instance.node;
