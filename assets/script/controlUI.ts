@@ -24,7 +24,7 @@ export class controlUI extends Component {
     }
 
     protected start(): void {
-
+        this.otherUI.active = false;
     }
 
     music(e: Event) {
