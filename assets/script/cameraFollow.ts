@@ -29,7 +29,7 @@ export class cameraFollow extends Component {
 
             this.node.setPosition(target);
             this.UI.forEach(e => {
-                e.setPosition(new Vec3(target.x, target.y, 800));
+                e.setPosition(new Vec3(target.x, target.y, e.getPosition().z));
             });
         } else {
             this.player = char.instance.node;

@@ -101,11 +101,16 @@ export class GameManager extends Component {
         var camera = find("Canvas/Camera").getComponent(Camera);
         console.log(camera.orthoHeight * camera.camera.aspect);
 
-        for (let i = 0; i < this.background.length; i++) {
-            const e = this.background[i];
-            var ui = e;
-            ui.setContentSize(size(camera.orthoHeight * camera.camera.aspect * 2, ui.contentSize.height));
-        }
+        // for (let i = 0; i < this.background.length; i++) {
+        //     const e = this.background[i];
+        //     var ui = e;
+        //     ui.setContentSize(size(camera.orthoHeight * camera.camera.aspect * 2, ui.contentSize.height));
+        //     var wg = ui.getComponent(Widget);
+        //     wg.left = 0;
+        //     wg.right = 0;
+        //     wg.bottom = 0;
+        //     wg.right = 0;
+        // }
 
         this.updateText();
     }
