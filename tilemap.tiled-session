@@ -1,0 +1,43 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "t1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "t2.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "time1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "D:/Cocode2dx-Project/RailwayConstructor/assets/resources/play",
+    "map.tileHeight": 234,
+    "map.tileWidth": 234,
+    "openFiles": [
+        "t1.tsx",
+        "t2.tsx"
+    ],
+    "project": "tilemap.tiled-project",
+    "recentFiles": [
+        "t1.tsx",
+        "t2.tsx",
+        "time1.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 208,
+        "width": 208
+    }
+}

@@ -1,0 +1,65 @@
+{
+  "__version__": "1.0.2",
+  "general": {
+    "designResolution": {
+      "width": 1920,
+      "height": 1080,
+      "fitHeight": true,
+      "fitWidth": false
+    }
+  },
+  "physics": {
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "char"
+      },
+      {
+        "index": 2,
+        "name": "rock"
+      },
+      {
+        "index": 3,
+        "name": "train"
+      },
+      {
+        "index": 4,
+        "name": "road"
+      },
+      {
+        "index": 5,
+        "name": "station"
+      },
+      {
+        "index": 6,
+        "name": "item"
+      },
+      {
+        "index": 7,
+        "name": "home"
+      },
+      {
+        "index": 8,
+        "name": "area"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 1,
+      "1": 476,
+      "2": 154,
+      "3": 318,
+      "4": 158,
+      "5": 136,
+      "6": 2,
+      "7": 54,
+      "8": 10
+    }
+  },
+  "custom_joint_texture_layouts": [],
+  "layer": [
+    {
+      "name": "UI",
+      "value": 1
+    }
+  ]
+}
