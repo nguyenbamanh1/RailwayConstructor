@@ -28,7 +28,7 @@ export class cameraFollow extends Component {
             let vec3 = new Vec3(this.player.getWorldPosition().x + this.offset.x, this.player.getWorldPosition().y + this.offset.y, this.node.getWorldPosition().z);
             this.node.setWorldPosition(vec3);
             this.UI.forEach(e => {
-                e.setWorldPosition(new Vec3(vec3.x, vec3.y));
+                e.setWorldPosition(new Vec3(vec3.x, vec3.y, e.getWorldPosition().z));
             });
         } else {
             this.player = char.instance.node;
